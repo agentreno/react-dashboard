@@ -1,0 +1,9 @@
+.Header ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.Header li {
+    margin: 0 10px;
+}
